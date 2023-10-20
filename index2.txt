@@ -1,1 +1,48 @@
 Hello Vikrant
+
+{
+  "status": "success",
+  "data": {
+    "user": {
+     
+      "id": "rb50ya5riydfgh36zQXr7fV0G3",
+      "email": "bjhhjs.a@gmail.com",
+     
+      "lenderType": "professional",
+      
+      "mobileNumber": "+916755674675",
+      "name": "Vikrant Deal",
+     
+      "userType": "edwf"
+    },
+    "organizations": {
+      "-vgvywvyvddygua": {
+        "id": "-vgvywvyvddygua",
+        "role": "OWNER",
+        "name": "Noble Finance",
+        "createdOn": 1666276940940,
+        "membersCount": 1
+      },
+      "-cvbyuigyefev": {
+       
+        "id": "-cvbyuigyefev",
+       
+        "name": "Dash Test",
+        "createdOn": 1681279353737,
+        "membersCount": 2
+      },
+      "-bhanivgdjbwh": {
+       
+        "id": "-bhanivgdjbwh",
+       
+        "role": "OWNER",
+        "name": "RFS Finance Services",
+       
+        "createdOn": 1690790791399,
+        "membersCount": 1
+      }
+    }
+  }
+}
+
+
