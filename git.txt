@@ -1,0 +1,13 @@
+git add .   -> to stage the multiple files
+git add filename -> to stage one file
+git commit -m "" -> to cmmit the changes
+git checkout branchname -> to switch the branch
+git checkout -b branchname -> create and switch to new branch
+git branch -> list the branch and highlight active branch
+git branch branchname -> create a new branch
+git status -> to check the status of repo
+git push -> to add file to remote repo
+git pull -> take a files from remote to local
+
+
+git add -A -> add all the files
